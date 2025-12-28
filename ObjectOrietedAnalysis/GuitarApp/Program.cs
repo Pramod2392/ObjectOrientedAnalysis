@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-namespace GuitarApp
+﻿namespace GuitarApp
 {
     internal class Program
     {
